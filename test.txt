@@ -1,0 +1,3 @@
+Lab 5 is about getting set up with GitHub or Bitbucket, developing a sample class to read Sudoku files, and implementing a simple Sudoku game setup/implementation. 
+
+The Sudoku puzzle requires that all the rows and columns be filled in with the numbers 1-n, as well as all subcells (e.g. 3x3 in a 9x9 game) where the puzzle is size nxn. 
